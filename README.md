@@ -6,12 +6,17 @@ Thousand ideas creates every second and goes waste as it does not get documented
 Wish I have been able to communicate to Alexa or smart home device through Brain wave EEG kit instead of blabeering without any patent/paper infront of public.
 
 How?
-Use a detachable EEG kit to train the brainwave and pass the interpreted infromation to a machine/animals 
+
+Use a detachable EEG kit to train the brainwave and pass the interpreted infromation to a machine for translation and recording.
 
 Reference:
+
 Google animal translator.
 Brain wave controlled robotics from pantech solution. 
 Detachable EEG Kits are better than neural link chip from Space x which can offcourse convert humans to Cyborgs( connected to internet all the time)
+
+https://www.pantechsolutions.net/brainsense-bci
+https://neuralink.com/approach/
 
 
 If you can train brainwaves of an animal and humans along the action while they are acting.
