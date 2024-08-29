@@ -7,7 +7,7 @@ Wish I have been able to communicate to Alexa or smart home device through Brain
 
 How?
 
-Use a detachable EEG kit to train the brainwave and pass the interpreted infromation to a machine for translation and recording.
+Use a **detachable EEG kit** to train the brainwave and pass the interpreted infromation to a machine for translation and recording.
 
 Reference:
 
